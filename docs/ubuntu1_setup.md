@@ -33,7 +33,7 @@ openssl rand -hex 32
 ```bash
 mkdir -p ~/Devel
 cd ~/Devel
-git clone https://github.com/myhsu7/qigong-whatsapp-bot.git
+git clone https://github.com/lulu-lovebird/qigong-whatsapp-bot.git
 cd qigong-whatsapp-bot
 npm ci
 ```
