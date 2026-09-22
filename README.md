@@ -82,3 +82,9 @@ Run migrations before restarting updated application code. Migration 006 adds `p
 Run a Meta test-number beta before registering the production number.
 
 For the complete `ubuntu1` clone, Caddy, Funnel, Meta webhook, and end-to-end check-in procedure, see [`docs/ubuntu1_setup.md`](docs/ubuntu1_setup.md).
+
+## 專案署名
+
+本專案由 **Bean, Bird & Badminton Tech Consulting** 開發並維護。
+
+Copyright (c) 2026 Bean, Bird & Badminton Tech Consulting. All rights reserved.
